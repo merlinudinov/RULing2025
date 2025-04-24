@@ -1,0 +1,105 @@
+---
+title: "Word-level and Phrase-level Prominence in Kazakh"
+subtitle: "Қазақща Сөз (Лексикалық) және Сөз Тіркесдік Екпіні"
+author: "Merlin Balkhash Udinov Скажите Пожалуйста"
+institute: "Department of Linguistics, Rutgers University"
+date: "2025/04/22 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["rutgers", "rutgers-fonts"]
+    lib_dir: libs
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+#A Well-known Nursery Rhyme in Kazakh
+<div style="display: flex;">
+<div style="flex: 2.5; padding-right: 1em;">
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> a.y<strong>ú</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> o.t<strong>í</strong>r </td>
+    <td style="border: none; width: 25%; padding: 8px;"> p<strong>à:</strong>r.t<strong>á</strong>-da</td>
+    <td style="border: none; width: 25%; padding: 8px;"> </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> cub </td>
+    <td style="border: none; width: 25%; padding: 8px;"> sit </td>
+    <td style="border: none; width: 25%; padding: 8px;"> desk-LOC </td>
+    <td style="border: none; width: 25%; padding: 8px;"> </td>
+  </tr>
+  <tr>
+  <td style="border: none; width: 25%; padding: 8px;"> </td>
+  </tr>
+  
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> e.k<strong>í</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> qol-<strong>í</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> q<strong>à:</strong>l.t<strong>á</strong>-da </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> two </td>
+    <td style="border: none; width: 25%; padding: 8px;"> hand-3.Poss </td>
+    <td style="border: none; width: 25%; padding: 8px;"> pocket-LOC </td>
+  </tr>
+  <tr>
+  <td style="border: none; width: 25%; padding: 8px;"> </td>
+  </tr>
+</table>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> <strong>á:</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> d<strong>é</strong>-di </td>
+    <td style="border: none; width: 25%; padding: 8px;"> <strong>b(ə́):</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> d<strong>é</strong>-di </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> 'A' </td>
+    <td style="border: none; width: 25%; padding: 8px;"> say-3.PST </td>
+    <td style="border: none; width: 25%; padding: 8px;"> 'B(ə)' </td>
+    <td style="border: none; width: 25%; padding: 8px;"> say-3.PST </td>
+  </tr>
+  <tr>
+  <td style="border: none; width: 25%; padding: 8px;"> </td>
+  </tr>
+  
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> 'r'-g<strong>á</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> til-<strong>í</strong> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> k<strong>è:</strong>l-m<strong>é</strong>-di </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"> </td>
+    <td style="border: none; width: 25%; padding: 8px;"> 'r'-DAT </td>
+    <td style="border: none; width: 25%; padding: 8px;"> tongue-3.Poss </td>
+    <td style="border: none; width: 25%; padding: 8px;"> come-NEG-3.COP </td>
+  </tr>
+  <tr>
+  <td style="border: none; width: 25%; padding: 8px;"> </td>
+  </tr>
+  <tr>
+    <td colspan="4" style="border: none; width:100%; padding: 8px;">'A cub is sitting on the desk, with their hands in the pocket. They pronounced 'A', they pronounced 'B', but they cannot pronounce 'R'.'</td>
+  </tr>
+</table>
+</div>
+
+<div style="flex: 1;">
+<img src="images/cub.png" height="450ptx">
+</div>
+
+</div>
+---
+class: center, middle
+
+# Thank You!
+
+## Тыңдағандарыңызға көп рахмет!
+### Мерлин Балқащ Қасенов Удиновский
+
+Slides created via the R package [**Xaringan**](https://github.com/yihui/xaringan).
