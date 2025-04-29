@@ -14,6 +14,13 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+class: middle, center
+# NO ONE KNOWS WHERE STRESS FALLS IN KAZAKH
+<div style="text-align: right; margin-left: 0;">
+Personal Email Communication (Adam McCollum 2024)
+</div>
+
+---
 #A Well-known Nursery Rhyme in Kazakh
 <div style="display: flex;">
 <div style="flex: 2.5; padding-right: 1em;">
@@ -94,6 +101,114 @@ output:
 </div>
 
 </div>
+
+---
+#A Well-known Nursery Rhyme in Kazakh
+<div style="display: flex;">
+<div style="flex: 2.5; padding-right: 1em;">
+<strong>Melodic Pattern</strong>
+$$
+\begin{array}{c}
+\hline
+\\[-1em]
+\text{ } \quad \text{ } \quad \text{ } \quad \text{ }\quad \text{◎}\quad \text{ }\quad \text{ } \\
+\hline
+\\[-1em]
+\text{ } \quad \text{○} \quad \text{ } \quad \text{○}\quad \text{ }\quad \text{○}\quad \text{ } \\
+\hline
+\\[-1em]
+\text{●} \quad \text{ } \quad \text{●} \quad \text{ }\quad \text{ }\quad \text{ }\quad \text{●} \\
+\hline
+\end{array}
+$$
+<br>
+<br>
+<strong>(Non-) Prominence Types</strong><br>
+$$
+\begin{array}{l}
+\text{●: L, one-beat long, low pitch}\\
+\text{○: H, one-beat long, high pitch}\\
+\text{◎: H+, two-beat long, extra high}
+\end{array}
+$$
+</div>
+
+
+<div style="flex: 1;">
+<img src="images/cub.png" height="450ptx">
+</div>
+
+</div>
+
+--
+<div style="
+  position: absolute;
+  top: 325px;       /* how high from top */
+  left: 350px;      /* how far from left */
+  width: 45px;     /* length of the line */
+  height: 4px;      /* thickness of the line */
+  background-color: red; /* color of the line */
+  transform: rotate(300deg); /* rotation angle */
+"></div>
+--
+<div style="
+  position: absolute;
+  top: 325px;       /* how high from top */
+  left: 385px;      /* how far from left */
+  width: 45px;     /* length of the line */
+  height: 4px;      /* thickness of the line */
+  background-color: blue; /* color of the line */
+  transform: rotate(60deg); /* rotation angle */
+"></div>
+--
+<div style="
+  position: absolute;
+  top: 325px;       /* how high from top */
+  left: 420px;      /* how far from left */
+  width: 45px;     /* length of the line */
+  height: 4px;      /* thickness of the line */
+  background-color: red; /* color of the line */
+  transform: rotate(300deg); /* rotation angle */
+"></div>
+--
+<div style="
+  position: absolute;
+  top: 265px;       /* how high from top */
+  left: 455px;      /* how far from left */
+  width: 45px;     /* length of the line */
+  height: 4px;      /* thickness of the line */
+  background-color: green; /* color of the line */
+  transform: rotate(300deg); /* rotation angle */
+"></div>
+--
+<div style="
+  position: absolute;
+  top: 265px;       /* how high from top */
+  left: 490px;      /* how far from left */
+  width: 45px;     /* length of the line */
+  height: 4px;      /* thickness of the line */
+  background-color: orange; /* color of the line */
+  transform: rotate(60deg); /* rotation angle */
+"></div>
+--
+<div style="
+  position: absolute;
+  top: 325px;       /* how high from top */
+  left: 525px;      /* how far from left */
+  width: 45px;     /* length of the line */
+  height: 4px;      /* thickness of the line */
+  background-color: blue; /* color of the line */
+  transform: rotate(60deg); /* rotation angle */
+"></div>
+
+---
+#A Well-known Nursery Rhyme in Kazakh
+If we find two prominence types in a nursery rhyme, could we be inspired, that there are more than one types of prominence in a langauge.
+
+<br>
+
+There is debates on this
+
 ---
 class: center, middle
 
