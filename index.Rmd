@@ -17,7 +17,7 @@ output:
 class: middle, center
 # NO ONE KNOWS WHERE STRESS FALLS IN KAZAKH
 <div style="text-align: right; margin-left: 0;">
-Personal Email Communication (Adam McCollum 2024)
+Personal Email Communication (McCollum 2024)
 </div>
 
 ---
@@ -150,7 +150,6 @@ $$
   background-color: red; /* color of the line */
   transform: rotate(300deg); /* rotation angle */
 "></div>
---
 <div style="
   position: absolute;
   top: 325px;       /* how high from top */
@@ -160,7 +159,6 @@ $$
   background-color: blue; /* color of the line */
   transform: rotate(60deg); /* rotation angle */
 "></div>
---
 <div style="
   position: absolute;
   top: 325px;       /* how high from top */
@@ -170,7 +168,6 @@ $$
   background-color: red; /* color of the line */
   transform: rotate(300deg); /* rotation angle */
 "></div>
---
 <div style="
   position: absolute;
   top: 265px;       /* how high from top */
@@ -180,7 +177,6 @@ $$
   background-color: green; /* color of the line */
   transform: rotate(300deg); /* rotation angle */
 "></div>
---
 <div style="
   position: absolute;
   top: 265px;       /* how high from top */
@@ -190,7 +186,6 @@ $$
   background-color: orange; /* color of the line */
   transform: rotate(60deg); /* rotation angle */
 "></div>
---
 <div style="
   position: absolute;
   top: 325px;       /* how high from top */
@@ -203,16 +198,134 @@ $$
 
 ---
 #A Well-known Nursery Rhyme in Kazakh
-If we find two prominence types in a nursery rhyme, could we be inspired, that there are more than one types of prominence in a langauge.
+<br>
+###If we find two prominence types in a nursery rhyme, could we be inspired, that a language is allowed to exhibit **more than one type of prominence**.
 
 <br>
+<br>
 
-There is debates on this
+###Some prior assumptions in this study need phonetic examinations:
+
+1. Word-level prominence is **stress**, and it is realised with a **longer vowel** and a **higher pitch**
+
+2. Phrase-level prominence is **pitch accent**, and it is realised with a **higher pitch**
+
+---
+#Grammar Assumed - Sequential Assignment
+.pull-left[
+- An analysis of *Optimality Theory* is proposed <br> <br>
+- Kazakh is assumed to exhibit **four**-level prominence (word, phrasal, sentential and intonational) <br> <br>
+- The input to **word-level stress assignment** is unparsed syllables <br> <br>
+- The input to the next stage is the output of the previous stage <br> <br>
+- At each level, there is a **default** prominence position (prominent at previous stage, etc.) <br> <br>
+- Deviating from the default position will lead to **contrastive focus** at that level
+]
+.pull-right[
+<div style="text-align: center;">
+<img src="images/frame.png" height="500ptx">
+</div>
+]
+---
+#Word-level Stress is NOT limited to the Stem Only
+$$
+\boldsymbol{H_0}: \text{Only word stem is qualified to be a phonological word}.
+$$
+$$
+\boldsymbol{H_1}: \text{Both word stem and suffixed word are qualified to be phonological words.}
+$$
+--
+<div>
+### Prominence on a suffixed word is phrasal, which can be moved to form **phrasal contrastive focus**
+
+--
+<table style="border-collapse: collapse; width: 100%; height: 150px;">
+  <tr style="height: 33%;">
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(1a)  \(\textit{zhe.k}\color{blue}{\textit{è}}\)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'individual' (n.)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(stress on final position)</td>
+  </tr>
+  
+  <tr style="height: 33%;">
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(1b) \(\textit{zhe.ke-l}\color{red}{\textit{í}}\textit{k}\)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'individual' (adj.)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(suffixation)</td>
+  </tr>
+  
+  <tr style="height: 33%;">
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(1c) \(\textit{zhe.k}\color{red}{\textit{é}}\textit{-lik}\)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'individual' (adj.)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(contrastive focus)</td>
+  </tr>
+</table>
+
+___
+
+--
+<table style="border-collapse: collapse; width: 100%; height: 150px;">
+  <tr style="height: 33%;">
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(2a)  \(\textit{h}\color{blue}{\textit{ì}}\textit{.mi.ja}\)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'chemistry'</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(stress kept on position of origin)</td>
+  </tr>
+
+  <tr style="height: 33%;">
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(2b) \(\textit{hi.mi.ja-l}\color{red}{\textit{í}}\textit{q}\)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'chemical'</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(nativised via suffixation)</td>
+  </tr>
+
+  <tr style="height: 33%;">
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(2c)  \(\textit{h}\color{red}{\textit{í}}\textit{.mi.ja}\textit{-l}\color{blue}{\textit{I}}\textit{q}\)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'chemistry'</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;">(contrastive focus)</td>
+  </tr>
+</table>
+
+
+---
+#Minimal Parsing vs. Maximal Parsing
+.pull-left[
+### Minimal Parsing
+<span style="font-variant: small-caps;">AllFeetRight >> AllFeetLeft >> Parse-</span>σ
+<br>
+<br>
+$$
+\sigma\sigma\sigma\sigma\quad\rightarrow\quad\sigma\sigma(\sigma\sigma)
+$$
+$$
+\sigma\sigma\sigma\sigma\sigma\quad\rightarrow\quad\sigma\sigma\sigma(\sigma\sigma)
+$$
+]
+.pull-right[
+### Maximal Parsing
+<span style="font-variant: small-caps;">Parse-</span>σ<span style="font-variant: small-caps;"> >> AllFeetRight >> AllFeetLeft</span>
+<br>
+<br>
+$$
+\sigma\sigma\sigma\sigma\quad\rightarrow\quad(\sigma\sigma)(\sigma\sigma)
+$$
+$$
+\sigma\sigma\sigma\sigma\sigma\quad\rightarrow\quad\sigma(\sigma\sigma)(\sigma\sigma)
+$$
+]
+<br>
+<br>
+<br>
+We argue for <strong>maximal parsing<strong>
+<div style="
+  position: absolute;
+  top: 300px;       /* how high from top */
+  left: 440px;      /* how far from left */
+  width: 280px;     /* length of the line */
+  height: 2px;      /* thickness of the line */
+  background-color: black; /* color of the line */
+  transform: rotate(90deg); /* rotation angle */
+"></div>
 
 ---
 class: center, middle
 
-# Thank You!
+# Thank You for Listening!
 
 ## Тыңдағандарыңызға көп рахмет!
 ### Мерлин Балқащ Қасенов Удиновский
