@@ -533,7 +533,7 @@ With maximal parsing applied, <strong><span style="font-variant: small-caps;">*S
 
 ### 2. Maximal Parsing**!**
 
-### 3. Morphology and Syntax interacts with Phonology**!**
+### 3. Morphology and Syntax interact with Phonology**!**
 
 ### 4. Heads are not necessarily defined solely by Phonology**!**
 
@@ -541,7 +541,7 @@ With maximal parsing applied, <strong><span style="font-variant: small-caps;">*S
 
 <br>
 
-### **I TRIED EVERYTHING I CAN!**
+### **I TRIED EVERYTHING I CAN TO MINIMISE SYNTACTIC ANALYSES**
 
 <div style="
   position: absolute;
