@@ -520,6 +520,13 @@ With maximal parsing applied, <strong><span style="font-variant: small-caps;">*S
 <img src="images/tree4.png" width="800ptx">
 
 ---
+#Exceptions
+### Since the negation marker has lost its **head-ness** during the lowering, it cannot bear the prominence (**phonological inability incurred by morphology**).
+
+<img src="images/head.png" width="500ptx">
+
+### Anything below **TP** is sent to **PF** for prominence assignment!
+---
 #Conclusion
 
 ### 1. Unification**!**
