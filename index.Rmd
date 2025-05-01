@@ -227,18 +227,17 @@ $$
 ]
 ---
 #Word-level Stress is NOT limited to the Stem Only
-$$
-\boldsymbol{H_0}: \text{Only word stem is qualified to be a phonological word}.
-$$
-$$
-\boldsymbol{H_1}: \text{Both word stem and suffixed word are qualified to be phonological words.}
-$$
---
-<div>
-### Prominence on a suffixed word is phrasal, which can be moved to form **phrasal contrastive focus**
+
+$\boldsymbol{H_0}\qquad\text{Only word stem is qualified to be a phonological word.}$
+
+$\boldsymbol{H_1}\qquad\text{Both word stem and suffixed word are qualified to be phonological words.}$
 
 --
-<table style="border-collapse: collapse; width: 100%; height: 150px;">
+<div>
+### Prominence on a suffixed word is phrasal, which can be moved to form **contrastive focus**
+
+--
+<table style="border-collapse: collapse; width: 100%; height: 120px;">
   <tr style="height: 33%;">
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">(1a)  \(\textit{zhe.k}\color{blue}{\textit{è}}\)</td>
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">'individual' (n.)</td>
@@ -253,7 +252,7 @@ $$
   
   <tr style="height: 33%;">
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">(1c) \(\textit{zhe.k}\color{red}{\textit{é}}\textit{-lik}\)</td>
-    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'individual' (adj.)</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;"></td>
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">(contrastive focus)</td>
   </tr>
 </table>
@@ -261,7 +260,7 @@ $$
 ___
 
 --
-<table style="border-collapse: collapse; width: 100%; height: 150px;">
+<table style="border-collapse: collapse; width: 100%; height: 120px;">
   <tr style="height: 33%;">
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">(2a)  \(\textit{h}\color{blue}{\textit{ì}}\textit{.mi.ja}\)</td>
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">'chemistry'</td>
@@ -276,11 +275,10 @@ ___
 
   <tr style="height: 33%;">
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">(2c)  \(\textit{h}\color{red}{\textit{í}}\textit{.mi.ja}\textit{-l}\color{blue}{\textit{I}}\textit{q}\)</td>
-    <td style="border: none; width: 25%; padding: 4px; text-align: left;">'chemistry'</td>
+    <td style="border: none; width: 25%; padding: 4px; text-align: left;"></td>
     <td style="border: none; width: 25%; padding: 4px; text-align: left;">(contrastive focus)</td>
   </tr>
 </table>
-
 
 ---
 #Minimal Parsing vs. Maximal Parsing
@@ -295,6 +293,9 @@ $$
 $$
 \sigma\sigma\sigma\sigma\sigma\quad\rightarrow\quad\sigma\sigma\sigma(\sigma\sigma)
 $$
+$$
+an.gi.li.ja.liq \quad \rightarrow \quad an.gi.li.(ja.lìq)
+$$
 ]
 .pull-right[
 ### Maximal Parsing
@@ -307,11 +308,24 @@ $$
 $$
 \sigma\sigma\sigma\sigma\sigma\quad\rightarrow\quad\sigma(\sigma\sigma)(\sigma\sigma)
 $$
+$$
+an.gi.li.ja.liq \quad \rightarrow \quad an.(gi.li).(ja.lìq)
+$$
 ]
 <br>
 <br>
+The current study argues for <strong>maximal parsing</strong>, based on analysis of <strong>exceptional</strong> negation marker {<i>-mA</i>}.
 <br>
-We argue for <strong>maximal parsing<strong>
+<br>
+With maximal parsing applied, <strong><span style="font-variant: small-caps;">*StressToNonHeadFoot</span></strong> is proposed
+
+<table style="border-collapse: collapse; width: 75%;">
+  <tr>
+    <td style="border: none; width: 30%; padding: 8px;"><span style="font-variant: small-caps;">*StressToNonHeadFoot</span></td>
+    <td style="border: none; width: 70%; padding: 8px;">assign a violation to every non-head foot that is assigned a secondary stress</td>
+  </tr>
+</table>
+
 <div style="
   position: absolute;
   top: 300px;       /* how high from top */
@@ -321,7 +335,214 @@ We argue for <strong>maximal parsing<strong>
   background-color: black; /* color of the line */
   transform: rotate(90deg); /* rotation angle */
 "></div>
+---
+# Minimal Parsing Leads to Wrong Predictions Sometimes
+### Negation marker {*-mA*} is said to be unstressed in all cases, which is **NOT** true.
+(1) <img src="images/negation1.png" width="450ptx">
 
+--
+### There is only one foot parsed if **minimal parsing** is applied.
+(3) <img src="images/minimalparsing.png" width="900ptx">
+
+---
+# Minimal Parsing Leads to Wrong Predictions Sometimes
+### Negation marker {*-mA*} is said to be unstressed in all cases, which is **NOT** true.
+(1) <img src="images/negation1.png" width="450ptx">
+(2) <img src="images/negation2.png" width="450ptx">
+
+### There is only one foot parsed if **minimal parsing** is applied.
+(3) <img src="images/minimalparsing.png" width="900ptx">
+
+---
+# Maximal Parsing
+### Minimal parsing does not solve cases **with** or **without** an intonational marker.
+<img src="images/maximalparsing.png" width="900ptx">
+### The case without an intonational marker will be solved via syntactic tools in the current study.
+
+### There is a **default** position at each level, but an **overt marker** such as the intonational marker {*xi*} is able to re-adjust the position of prominence.
+
+---
+# Maximal Parsing
+### Minimal parsing does not solve cases **with** or **without** an intonational marker.
+<img src="images/maximalparsing.png" width="900ptx">
+
+<table style="border-collapse: collapse; width: 75%;">
+  <tr>
+    <td style="border: none; width: 30%; padding: 8px;"><span style="font-variant: small-caps;">AlignToHeadMarker</span></td>
+    <td style="border: none; width: 70%; padding: 8px;">assign a violation to every head foot whose right edge is not aligned to the left edge of the head marker</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 30%; padding: 8px;"><span style="font-variant: small-caps;">FaithHeadFoot</span></td>
+    <td style="border: none; width: 70%; padding: 8px;">assign a violation to every head foot in the output that is not a head foot in the input</td>
+  </tr>
+</table>
+
+---
+#Word-level Stress
+
+### 1. Syllables are maximally parsed (<strong><span style="font-variant: small-caps;">Parse-</span>σ <span style="font-variant: small-caps;">>> AllFeetRight >> AllFeetLeft</span></strong>) and they are parsed into disyllabic feet only (<strong><span style="font-variant: small-caps;">FootBinary</span></strong>). 
+<img src="images/wordparsing.png" width="900ptx">
+
+---
+#Word-level Stress
+
+### 2. The default word-level stress (primary) goes to the **final** syllable of a word (<strong><span style="font-variant: small-caps;">MainRight >> MainLeft</span></strong>), and there is only one primary stress (<strong><span style="font-variant: small-caps;">Culminativity</span></strong>).
+
+--
+### 3. No secondary stress is allowed (<strong><span style="font-variant: small-caps;">*StressToNonHeadFoot</span></strong>), even though feet are parsed.
+
+--
+### 4. The stress is aligned to the right edge of a foot (<strong><span style="font-variant: small-caps;">Iambic</span></strong>).
+
+--
+<img src="images/wordassignment.png" width="750ptx">
+
+---
+#Word-level Stress
+
+### 5. The stress is assigned to a heavy syllable without exceptions (<strong><span style="font-variant: small-caps;">StressToWeight</span></strong>).
+
+--
+### 6. The stress is assigned to the **morphological head** (M-head) of the phonological word (<strong><span style="font-variant: small-caps;">MainToM-Head</span></strong>).
+
+--
+<img src="images/kazakh.png" width="450ptx">
+
+<img src="images/railway.png" width="450ptx">
+---
+#Word-level Stress
+
+### 5. The stress is assigned to a heavy syllable without exceptions (<strong><span style="font-variant: small-caps;">StressToWeight</span></strong>).
+
+### 6. The stress is assigned to the **morphological head** (M-head) of the phonological word (<strong><span style="font-variant: small-caps;">MainToM-Head</span></strong>).
+
+<img src="images/wordassignment2.png" width="900ptx">
+---
+#Phrase-level Pitch Accent
+
+###The **input** to the phrasal level is the **output** of prominence assigned at the word level.
+
+###Phrasal pitch accent goes to the position that is already prominent in the **input** (where the word stress goes, <strong><span style="font-variant: small-caps;">FaithHeadFoot >> ProminenceToP-HeadFoot</span></strong>).
+<table style="border-collapse: collapse; width: 75%;">
+  <tr>
+    <td style="border: none; width: 40%; padding: 8px;"><span style="font-variant: small-caps;">FaithHeadFoot</span></td>
+    <td style="border: none; width: 60%; padding: 8px;">assign a violation to every head foot in the output that is not a head foot in the input</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 40%; padding: 8px;"><span style="font-variant: small-caps;">ProminenceToP-HeadFoot</span></td>
+    <td style="border: none; width: 60%; padding: 8px;">assign a violation to every prominent that is not assigned to the phonological head foot</td>
+  </tr>
+</table>
+
+---
+#Phrase-level Pitch Accent
+
+###The **input** to the phrasal level is the **output** of prominence assigned at the word level.
+
+###Syllbles are parsed in the **input**, there is no de-parsing and re-parsing process by default (<strong><span style="font-variant: small-caps;">FaithFeetStructure</span></strong>).
+
+<table style="border-collapse: collapse; width: 75%;">
+  <tr>
+    <td style="border: none; width: 30%; padding: 8px;"><span style="font-variant: small-caps;">FaithFeetStructure</span></td>
+    <td style="border: none; width: 70%; padding: 8px;">assign a violation to feet structure mismatch between the input and the output</td>
+  </tr>
+</table>
+<br>
+
+--
+<img src="images/phrasal.png" width="900ptx">
+
+---
+#Interim Summary
+
+### There are **four** levels of prominence in Kazakh and there is a **default** position where the prominence at that level goes to.
+
+--
+### The prominence deviating from the **default** position forms **contrastive focus** at that level.
+
+<table style="border-collapse: collapse; width: 92%;">
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"><strong>word level</strong></td>
+    <td style="border: none; width: 30%; padding: 8px;"><i>shifted</i> pronunciation</td>
+    <td style="border: none; width: 45%; padding: 8px;">poetry, nursery rhyme</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"><strong>phrase level</strong></td>
+    <td style="border: none; width: 30%; padding: 8px;">contrastive focus</td>
+    <td style="border: none; width: 45%; padding: 8px;">morphemes in contrast</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"><strong>sentential level</strong></td>
+    <td style="border: none; width: 30%; padding: 8px;">focus</td>
+    <td style="border: none; width: 45%; padding: 8px;">syntactic constituent in contrast</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 25%; padding: 8px;"><strong>intonational level</strong></td>
+    <td style="border: none; width: 30%; padding: 8px;">semantic contrast</td>
+    <td style="border: none; width: 45%; padding: 8px;">tune changing</td>
+  </tr>
+</table>
+
+--
+
+### An overt marker might be able to re-adjust the prominence (the intonational marker ***xi***, etc.)
+
+---
+#Exceptions
+### Some suffixes do not bear prominence: **Person Agreement** (a), **Progressive** Verbs (b), **Copulas** (c) and the lower **Negation** marker (d).
+
+<img src="images/exception.png" width="900ptx">
+
+--
+
+### Sequential prominence assignment requires that they are unstressed at the word-level.
+
+--
+
+### They do not share any commonality in terms of **Phonology**.
+
+---
+#Exceptions
+### Some suffixes do not bear prominence: **Person Agreement** (a), **Progressive** Verbs (b), **Copulas** (c) and the lower **Negation** marker (d).
+
+### YET, (a)-(c) are **syntactically** similar, all of them are higher than the **tense phrase** (TP)
+
+<img src="images/tree1.png" width="150ptx"> $\quad$
+<img src="images/tree2.png" width="450ptx"> $\quad$
+<img src="images/tree3.png" width="300ptx">
+
+---
+#Exceptions
+### Some suffixes do not bear prominence: **Person Agreement** (a), **Progressive** Verbs (b), **Copulas** (c) and the lower **Negation** marker (d).
+
+### The lower *Negation* marker is assumed to be higher than **TP** as well. It is lowered to merged with the **aspect** (Asp) and loses its *head-ness*.
+
+<img src="images/tree4.png" width="800ptx">
+
+---
+#Conclusion
+
+### 1. Unification**!**
+
+### 2. Maximal Parsing**!**
+
+### 3. Morphology and Syntax interacts with Phonology**!**
+
+### 4. Heads are not necessarily defined solely by Phonology**!**
+
+### 5. Tense Phrase as a Stress-Assigning Phase**!**
+
+<br>
+
+### **I TRIED EVERYTHING I CAN!**
+
+<div style="
+  position: absolute;
+  top: 0px;
+  right: 0px;
+">
+  <img src="images/stress.png" width="460px">
+</div>
 ---
 class: center, middle
 
