@@ -1,7 +1,7 @@
 ---
 title: "Word-level and Phrase-level Prominence in Kazakh"
 subtitle: "Қазақща Сөз (Лексикалық) және Сөз Тіркесдік Екпіні"
-author: "Merlin Balkhash Udinov Скажите Пожалуйста"
+author: "Merlin Balkhash 정재 Udinov Скажите Пожалуйста"
 institute: "Department of Linguistics, Rutgers University"
 date: "2025/04/22 (updated: `r Sys.Date()`)"
 output:
