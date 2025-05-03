@@ -541,7 +541,7 @@ With maximal parsing applied, <strong><span style="font-variant: small-caps;">*S
 
 <br>
 
-### **I TRIED EVERYTHING I CAN TO MINIMISE SYNTACTIC ANALYSES**
+### **EVERY ATTEMPT WAS TO MINIMISE SYNTACTIC ANALYSES**
 
 <div style="
   position: absolute;
