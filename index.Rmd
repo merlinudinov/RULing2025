@@ -546,9 +546,9 @@ With maximal parsing applied, <strong><span style="font-variant: small-caps;">*S
 <div style="
   position: absolute;
   top: 0px;
-  right: 0px;
+  right: -20px;
 ">
-  <img src="images/stress.png" width="460px">
+  <img src="images/me.jpg" width="515px">
 </div>
 ---
 class: center, middle
