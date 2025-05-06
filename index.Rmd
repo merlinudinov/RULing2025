@@ -386,7 +386,7 @@ With maximal parsing applied, <strong><span style="font-variant: small-caps;">*S
 ---
 #Word-level Stress
 
-### 2. The default word-level stress (primary) goes to the **final** syllable of a word (<strong><span style="font-variant: small-caps;">MainRight >> MainLeft</span></strong>), and there is only one primary stress (<strong><span style="font-variant: small-caps;">Culminativity</span></strong>).
+### 2. The default word-level stress (primary) goes to the **rightmost** foot of a word (<strong><span style="font-variant: small-caps;">MainRight >> MainLeft</span></strong>), and there is only one primary stress (<strong><span style="font-variant: small-caps;">Culminativity</span></strong>).
 
 --
 ### 3. No secondary stress is allowed (<strong><span style="font-variant: small-caps;">*StressToNonHeadFoot</span></strong>), even though feet are parsed.
